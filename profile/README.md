@@ -2,10 +2,12 @@ This is the main organization for all projects made in Barcelona during Hackatho
 In here, there will be tutorials and codes from past and present projects, where you can learn how arduino's, Laser Harps, Bionic Hands, Sensory Cabins and more work!
 Any questions, there's a [discussion](https://github.com/orgs/TechProjects-BCN/discussions) area in the organization page where you can ask questions, give feedback and talk with mentors.
 
+For codes and explanatories made by David Iwatsuki and Daniel Avishai, you can check out: https://github.com/TheSaturdayThing
 
 ## Why use github?
-To improve the communication, debugging and workflow of both students and mentors, for all projects that involve some kind of coding, this github will be key to allow access to all mentors and students to the code and give feedback on it. During TechProjects, MIT mentors usually have a 6 hour difference, so if a meeting is not possible, github is the option to leave a discussion question, where someone from the mentor's team can help.
-It is also important to have all codes of past and future projects in here as it is a source of inspiration and knowledge. Students can have a look what their mates in last years built and use it for their own projects or even continue those old projects.
+To improve the communication, debugging and workflow of both students and mentors, for all projects that involve some kind of coding, this github will be key to allow access to all mentors and students to the code and give feedback on it. During TechProjects, MIT mentors usually have a 6-hour difference, so if a meeting is not possible, github is the option to leave a discussion question, where someone from the mentor's team can help.
+It is also important to have all codes of past and future projects in here as it is a source of inspiration and knowledge. Students can have a look what their mates in last year’s built and use it for their own projects or even continue those old projects.
+
 
 ## How does github work?
 Github works as a "Google drive" for code, where you can share code (and other files) with your team and at the same time, it will store all versions of your code (e.g. you can access the state of your code before you made any change, so if you deleted something by mistake, it can be retrieved.)
