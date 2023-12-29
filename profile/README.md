@@ -3,7 +3,7 @@ In here, there will be tutorials and codes from past and present projects, where
 
 Any questions, there's a [discussion](https://github.com/orgs/TechProjects-BCN/discussions) area in the organization page where you can ask questions, give feedback and talk with mentors.
 
-**For codes and explanatories made by David Iwatsuki and Dan Stutma, you can check out:** https://github.com/TheSaturdayThing
+**For codes and explanatories made by David Iwatsuki and Dan Stutman, you can check out:** https://github.com/TheSaturdayThing
 
 ## Why use github?
 To improve the communication, debugging and workflow of both students and mentors, for all projects that involve some kind of coding, this github will be key to allow access to all mentors and students to the code and give feedback on it. During TechProjects, MIT mentors usually have a 6-hour difference, so if a meeting is not possible, github is the option to leave a discussion question, where someone from the mentor's team can help.
