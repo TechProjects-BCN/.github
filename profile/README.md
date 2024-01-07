@@ -19,6 +19,7 @@ Github works as a "Google drive" for code, where you can share code (and other f
 
 ### 2. Get access to the Organization
 - Ask a mentor to create a repository for your group. That will give you access to a "Drive folder", where the code is going to be shared.
+- If you cannot ask a mentor. You may fill this Google Forms: https://forms.gle/HauQFNpmtUroDgy39 . It will take around 24h to add you to the repository.
 - You will receive the invite via email. Once you accept it and have access to the repository, keep going per the below.
 
 ### 3. Downloading Github
