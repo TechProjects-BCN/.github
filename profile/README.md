@@ -6,7 +6,7 @@ Any questions, there's a [discussion](https://github.com/orgs/TechProjects-BCN/d
 **For codes and explanatories made by David Iwatsuki and Dan Stutman, you can check out:** https://github.com/TheSaturdayThing
 
 ## Requesting Access to the Organization
-You may fill this Google Forms: https://forms.gle/HauQFNpmtUroDgy39 . It will take up to 24h to add you to the repository.
+You may fill this Google Forms: https://forms.gle/HauQFNpmtUroDgy39 . It will take up to 24h to add you.
 
 
 ## Why use github?
