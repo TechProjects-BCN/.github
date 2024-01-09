@@ -8,6 +8,10 @@ Any questions, there's a [discussion](https://github.com/orgs/TechProjects-BCN/d
 ## Requesting Access to the Organization
 You may fill this Google Forms: https://forms.gle/HauQFNpmtUroDgy39 . It will take up to 24h to add you.
 
+## Resources:
+- Tutorials for developing AI-related projects: https://github.com/TechProjects-BCN/AI-Tutorials
+- Tools that may be useful: https://github.com/TechProjects-BCN/Tools
+- Coding Tutorials useful for all projects. Including connection between Arduino and Python: https://github.com/TechProjects-BCN/CodingTutorials
 
 ## Why use github?
 To improve the communication, debugging and workflow of both students and mentors, for all projects that involve some kind of coding, this github will be key to allow access to all mentors and students to the code and give feedback on it. During TechProjects, MIT mentors usually have a 6-hour difference, so if a meeting is not possible, github is the option to leave a discussion question, where someone from the mentor's team can help.
