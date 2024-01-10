@@ -15,6 +15,7 @@ You may fill this Google Forms: https://forms.gle/HauQFNpmtUroDgy39 . It will ta
 
 ## Why use github?
 To improve the communication, debugging and workflow of both students and mentors, for all projects that involve some kind of coding, this github will be key to allow access to all mentors and students to the code and give feedback on it. During TechProjects, MIT mentors usually have a 6-hour difference, so if a meeting is not possible, github is the option to leave a discussion question, where someone from the mentor's team can help.
+
 It is also important to have all codes of past and future projects in here as it is a source of inspiration and knowledge. Students can have a look what their mates in last year’s built and use it for their own projects or even continue those old projects.
 
 
